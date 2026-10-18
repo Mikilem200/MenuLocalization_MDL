@@ -15,8 +15,8 @@ MonoBehaviour:
   m_GroupName: Localization-Asset-Tables-Spanish (es)
   m_GUID: ed94470224516d04bbf2f45037a4f88b
   m_SerializeEntries:
-  - m_GUID: a348d43530c0e08499059ed3e942e388
-    m_Address: DismayWithFlagswithDrMikilem_es
+  - m_GUID: 1942f58d7a3d01040a3057239211fd30
+    m_Address: Spanglish_es
     m_ReadOnly: 1
     m_SerializedLabels:
     - Locale-es

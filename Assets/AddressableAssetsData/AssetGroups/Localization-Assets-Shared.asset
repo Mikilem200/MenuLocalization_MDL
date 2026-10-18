@@ -15,13 +15,13 @@ MonoBehaviour:
   m_GroupName: Localization-Assets-Shared
   m_GUID: f961646ccd628ee4192f433196f9321d
   m_SerializeEntries:
-  - m_GUID: 3eecaaccd22e4084c8d54137d760aeeb
-    m_Address: Assets/Locales/Text Shared Data.asset
+  - m_GUID: 50ea27a409fe5934b9d47844b285e8c6
+    m_Address: Assets/Locales/TabColl/Spanglish_Text Shared Data.asset
     m_ReadOnly: 1
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 88507d7764e2ee845ba13fa68aefe132
-    m_Address: Assets/Locales/DismayWithFlagswithDrMikilem Shared Data.asset
+  - m_GUID: b7912bbdefe730e4bbbdc328ebad5085
+    m_Address: Assets/Locales/TabColl/Spanglish Shared Data.asset
     m_ReadOnly: 1
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0

@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97269afb30aa84742ae3f3342603618a, type: 3}
+  m_Name: Spanglish_en
+  m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.AssetTable
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: b7912bbdefe730e4bbbdc328ebad5085, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 1224335581184
+    m_Localized: '7e98db3f115250347b6f8dcb56ccdf41[englishquotes_0]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2242213470208
+    m_Localized: '7f755fb23b8a3574586a57f0e6c72615[logo]'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3623334862848
+    m_Localized: 79459efec17a4d00a321bdcc27bbc385
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4142090575872
+    m_Localized: 79459efec17a4d00a321bdcc27bbc385
+    m_Metadata:
+      m_Items: []
+  - m_Id: 6975032549376
+    m_Localized: '7e98db3f115250347b6f8dcb56ccdf41[englishquotes_0]'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

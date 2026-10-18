@@ -10,12 +10,12 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
-  m_Name: Text
+  m_Name: Spanglish_Text
   m_EditorClassIdentifier: Unity.Localization.Editor::UnityEditor.Localization.StringTableCollection
-  m_SharedTableData: {fileID: 11400000, guid: 3eecaaccd22e4084c8d54137d760aeeb, type: 2}
+  m_SharedTableData: {fileID: 11400000, guid: 50ea27a409fe5934b9d47844b285e8c6, type: 2}
   m_Tables:
-  - {fileID: 11400000, guid: d66e77cc7faff434296d02e0fefed7ad, type: 2}
-  - {fileID: 11400000, guid: 6d531d0eedd833a4f809365c2a9ccf51, type: 2}
+  - {fileID: 11400000, guid: 5b7c1d0de147bd344b861ef9ec44a54a, type: 2}
+  - {fileID: 11400000, guid: 6ce54b8377221cd46b4a17570b14e465, type: 2}
   m_Extensions: []
   m_Group: String Table
   references:

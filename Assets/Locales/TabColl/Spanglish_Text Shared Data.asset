@@ -10,19 +10,31 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
-  m_Name: Text Shared Data
+  m_Name: Spanglish_Text Shared Data
   m_EditorClassIdentifier: Unity.Localization::UnityEngine.Localization.Tables.SharedTableData
-  m_TableCollectionName: Text
-  m_TableCollectionNameGuidString: 3eecaaccd22e4084c8d54137d760aeeb
-  m_Entries: []
+  m_TableCollectionName: Spanglish_Text
+  m_TableCollectionNameGuidString: 50ea27a409fe5934b9d47844b285e8c6
+  m_Entries:
+  - m_Id: 2903697154048
+    m_Key: SampleScene/Canvas/Button/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3125508726784
+    m_Key: SampleScene/Canvas/Button (2)/Text (TMP)
+    m_Metadata:
+      m_Items: []
+  - m_Id: 3166512242688
+    m_Key: SampleScene/Canvas/Button (1)/Text (TMP)
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:
-    rid: 8833327306152869912
+    rid: 8833327307032363104
   references:
     version: 2
     RefIds:
-    - rid: 8833327306152869912
+    - rid: 8833327307032363104
       type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
       data:
-        m_CustomEpoch: 1792337191261
+        m_CustomEpoch: 1792347222065
