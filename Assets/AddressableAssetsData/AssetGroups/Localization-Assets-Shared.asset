@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Localization-Assets-Shared
+  m_GUID: f961646ccd628ee4192f433196f9321d
+  m_SerializeEntries:
+  - m_GUID: 3eecaaccd22e4084c8d54137d760aeeb
+    m_Address: Assets/Locales/Text Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88507d7764e2ee845ba13fa68aefe132
+    m_Address: Assets/Locales/DismayWithFlagswithDrMikilem Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 9915b33e7e2c75349beee455f0848c43, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 317e55dea1e7e9a4da491dfe9d5acd57, type: 2}
+    - {fileID: 11400000, guid: e3fd7e43d09015a42904880e831f0361, type: 2}
+    - {fileID: 11400000, guid: fe5833bbdaba4144c916d73842f012fc, type: 2}
