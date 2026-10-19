@@ -27,6 +27,10 @@ MonoBehaviour:
     m_Key: SampleScene/Canvas/Button (1)/Text (TMP)
     m_Metadata:
       m_Items: []
+  - m_Id: 315779217092608
+    m_Key: SampleScene/Canvas/Text (TMP)
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

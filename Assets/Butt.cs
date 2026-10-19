@@ -11,7 +11,7 @@ public class Butt : MonoBehaviour
         var enLoc = LocalizationSettings.AvailableLocales.GetLocale("en");
         var esLoc = LocalizationSettings.AvailableLocales.GetLocale("es");
 
-        if (LocalizationSettings.SelectedLocale = enLoc)
+        if (LocalizationSettings.SelectedLocale == enLoc)
         {
             LocalizationSettings.SelectedLocale = esLoc;
         }
